@@ -1,4 +1,9 @@
 /*
+ * Author      : Mishthi Chopra
+ * Date        : 28 June 2026
+ */
+
+/*
 =========================================================
 VENDING MACHINE STATE MACHINE
 
