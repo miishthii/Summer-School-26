@@ -24,6 +24,7 @@ This folder contains the Week 4 assignments completed during the **IoT Summer Sc
 * Automatically refreshes sensor readings every 10 seconds.
 
 ### MQTT Publisher
+https://wokwi.com/projects/468091893719251969
 
 * Publishes temperature and humidity readings from an ESP32 to a public MQTT broker.
 * Uses JSON-formatted messages and subscribes to an LED control topic for remote device control.
