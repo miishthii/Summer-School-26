@@ -1,3 +1,8 @@
+/*
+ * Author      : Mishthi Chopra
+ * Date        : 28 June 2026
+ */
+
 int latchPin = 10;
 int clockPin = 13;
 int dataPin  = 11;
