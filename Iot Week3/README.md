@@ -9,40 +9,48 @@ This folder contains the Week 3 assignments completed during the **IoT Summer Sc
 ## Projects Included
 
 ### Environmental Monitoring
+https://wokwi.com/projects/468059613876562945
 
 * Reads temperature and humidity using a DHT sensor.
 * Displays readings in CSV format and indicates environmental status using LEDs.
 
 ### Parking Sensor
+https://wokwi.com/projects/468066503514280961
 
 * Ultrasonic-based parking assistance system.
 * Uses LEDs and a buzzer to indicate the distance from nearby objects.
 
 ### Multi-Sensor Logger
+https://wokwi.com/projects/468067809199130625
 
 * Collects data from multiple sensors including a DHT sensor, LDR, and ultrasonic sensor.
 * Displays structured sensor logs through the Serial Monitor.
 
 ### Servo Control
+https://www.tinkercad.com/things/05OzUs2Xf9u-servo-motor-sweep?sharecode=9cHIm4yk3iK2PmkJ5cfyo5s1ChT6rqZHtbvAx31aZCc
 
 * Controls an SG90 servo motor using a potentiometer.
 * Includes a push button to perform an automatic sweep operation.
 
-### Pot Speed Control
+### Potentiometer Speed Control
+https://www.tinkercad.com/things/gYIGUe3XZMl-potentiometer-speed-control?sharecode=YhhCmYsxgRGME3l46Jnr2NRsvRMF6z_jtjY5EstaFV0
 
 * Controls DC motor speed using a potentiometer and motor driver.
 * Supports start/stop and direction control.
 
 ### Relay AC Simulation
+https://wokwi.com/projects/468075332468253697
 
 * Simulates automatic AC control using a relay module based on temperature readings.
 * Includes manual override functionality.
 
 ### Password Lock
+https://www.tinkercad.com/things/fyrzazQAs5m-password-lock?sharecode=nlFULlEuzBDIlGDziJeOoE9m7a1QkSTXTdnUuCZtcSM
 
 * Password-protected access system using a 4×4 keypad, 16×2 LCD, LEDs, and buzzer.
 
 ### Smart Street Light
+https://www.tinkercad.com/things/1T596bE1oSr-smart-street-light?sharecode=eS4QpeI_QwcoGHU2OmGcOUSEQyZb7k2QEtyvohfv-nQ
 
 * Automatic street lighting system using an LDR to detect ambient light conditions.
 
