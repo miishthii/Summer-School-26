@@ -1,3 +1,8 @@
+/*
+ * Author      : Mishthi Chopra
+ * Date        : 28 June 2026
+ */
+
 int led = 13;
 int pot = A0;
 int blinkcount = 0;
