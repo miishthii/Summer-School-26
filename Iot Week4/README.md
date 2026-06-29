@@ -6,7 +6,7 @@ This folder contains the Week 4 assignments completed during the **IoT Summer Sc
 
 ---
 
-## Projects Included
+## Projects Included 
 
 ### Bluetooth LED Controller
 
