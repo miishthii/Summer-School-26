@@ -15,7 +15,7 @@ https://wokwi.com/projects/468059613876562945
 * Displays readings in CSV format and indicates environmental status using LEDs.
 
 ### Parking Sensor
-https://wokwi.com/projects/468066503514280961
+https://wokwi.com/projects/468066503514280961 
 
 * Ultrasonic-based parking assistance system.
 * Uses LEDs and a buzzer to indicate the distance from nearby objects.
