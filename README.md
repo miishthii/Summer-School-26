@@ -87,11 +87,9 @@ iot-summer-school-2026/
 * Analog Read vs. Analog Write
 * Additional theory assignments
 
-### Final Project
+**Room Comfort Management System using ESP32**
 
-**Intelligent Plant Stress Monitor**
-
-An IoT-based smart plant monitoring system that analyzes environmental conditions using multiple sensors, provides recommendations, and supports future automation for plant care.
+The Room Comfort Management System is an IoT-based smart automation project designed to monitor indoor environmental conditions and automatically maintain a comfortable, healthy, and energy-efficient living space.
 
 ### Portfolio
 
